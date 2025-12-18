@@ -12,3 +12,10 @@ Além disso, vamos aprender a trabalhar com GitFlow ao final do curso e Visual S
 
 Confira tudo o que temos no nosso Youtube. É grátis!
 
+----
+
+Pessoas participantes:
+
+* Thadeu
+
+
